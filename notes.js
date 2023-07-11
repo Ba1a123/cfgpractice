@@ -1,0 +1,1 @@
+var x="the begging of .js file";
